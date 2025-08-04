@@ -15,3 +15,11 @@ create program & do following task
     12) clear list 
     13) display list 
 
+tuples 
+-----------------------------
+    1) creat tuples with all languages of india. 
+    2) find position of Gujarati
+    3) find position hibru
+    4) count Hindi 
+    5) display tuple 
+    6) findout size of tuple (how many items it has )
