@@ -17,9 +17,28 @@ create program & do following task
 
 tuples 
 -----------------------------
-    1) creat tuples with all languages of india. 
+    1) create tuples with all languages of india. 
     2) find position of Gujarati
     3) find position hibru
     4) count Hindi 
     5) display tuple 
     6) findout size of tuple (how many items it has )
+
+
+dictionary
+------------------------
+    create empty dictionary
+    add two key value pair, name, surname 
+    print dictionary 
+    update name set value ram 
+    remove surname key 
+    print dictionary 
+
+set 
+----------------
+create set that has 10 unique indian state name 
+print set 
+add state gujarat 
+add state punjab 
+remove state gujarat
+print set 
